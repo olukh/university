@@ -1,0 +1,5 @@
+C:/Users/gabitovy/Desktop/ЛАБЫ/АСД/lab_1.1/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/gabitovy/Desktop/ЛАБЫ/АСД/lab_1.1/out/build/x64-Release/CMakeFiles/main.dir
+C:/Users/gabitovy/Desktop/ЛАБЫ/АСД/lab_1.1/out/build/x64-Release/CMakeFiles/test1.dir
+C:/Users/gabitovy/Desktop/ЛАБЫ/АСД/lab_1.1/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/gabitovy/Desktop/ЛАБЫ/АСД/lab_1.1/out/build/x64-Release/CMakeFiles/test.dir

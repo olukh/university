@@ -1,0 +1,7 @@
+# ninja log v5
+4	350	605909981	CMakeFiles/main.dir/Generator.cpp.obj	c0cc9435806c89e4
+1	384	605909981	CMakeFiles/main.dir/main.cpp.obj	32ebb036e31108e2
+394	634	605909981	main.exe	e66b52a6388204eb
+3	194	605909987	CMakeFiles/test1.dir/Generator.cpp.obj	f4c29fc918c50829
+1	2659	605909990	CMakeFiles/test1.dir/Test.cpp.obj	cb9bc8a3ea4b9964
+2661	3098	605909990	test1.exe	51d1449c120b7f57
