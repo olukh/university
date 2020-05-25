@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-
+ 
 vector <int> temp;
 vector <int> original1;
 vector <int> original2;
