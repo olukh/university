@@ -1,6 +1,5 @@
-#include <iostream>
-#include "generator.h"
-
+#include "ProblemSolver.h"
+#include <fstream>
 using namespace std;
 
 
@@ -12,7 +11,9 @@ using namespace std;
 //}
 
 int main() {
-   std::cout<<"10!="<<Factorial(10)<<endl;
+    ProblemSolver s;
+    s.ReadFile("input.txt");
+
 
    //Generator g(5,3);
    //  Generator g;
